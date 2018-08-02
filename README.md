@@ -13,6 +13,6 @@ A multi-scale capsule network
 
 ## Results
 
-| |FashionMNIST|CIFAR10|
-| | acc | \#params| acc|\#params|
-|CapsNet|||||
+| datasets | FashionMNIST | CIFAR10 |
+| ------ |------|------|
+| CapsNet | 0.920 | 0.732 |
