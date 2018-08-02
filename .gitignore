@@ -1,0 +1,7 @@
+# excloude everything except directory foo/bar
+
+/*.params
+/log/*
+/params/*
+/*.ndarray
+/*.ipynb
